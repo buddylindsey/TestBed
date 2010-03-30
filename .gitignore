@@ -30,6 +30,11 @@ obj/
 [Dd]ebug*/
 [Rr]elease*/
 
+#Mono Develop Specific
+*.userprefs
+*.pidb
+*.mdb
+
 #Tooling
 _ReSharper*/
 [Tt]est[Rr]esult*
