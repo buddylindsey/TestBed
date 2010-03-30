@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wwwjdic1", "wwwjdic1\wwwjdic1.csproj", "{1073E41B-9E78-40CE-A0D2-384DF6405ACA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1073E41B-9E78-40CE-A0D2-384DF6405ACA}.Debug|x86.ActiveCfg = Debug|x86
+		{1073E41B-9E78-40CE-A0D2-384DF6405ACA}.Debug|x86.Build.0 = Debug|x86
+		{1073E41B-9E78-40CE-A0D2-384DF6405ACA}.Release|x86.ActiveCfg = Release|x86
+		{1073E41B-9E78-40CE-A0D2-384DF6405ACA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = wwwjdic1\wwwjdic1.csproj
+	EndGlobalSection
+EndGlobal
