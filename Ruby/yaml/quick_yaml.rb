@@ -1,3 +1,7 @@
+# This is a quick and dirty code reference file
+# on using YAML with ruby code. Meant solely as
+# example code.
+
 require 'yaml'
 
 # setup an object to serialize with yaml
